@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: bfab6f9d668e39b408292584add2f574
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - MOTO VERSE
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e03406132a61953428fc3b77736a5b2e, type: 3}
+  - {fileID: 12800000, guid: 653e853f515ce594f97a994cad2bd28c, type: 3}
+  - {fileID: 12800000, guid: 8175bbeb82edfe343a4d243ae4861cbb, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
